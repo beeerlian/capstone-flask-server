@@ -1,0 +1,4 @@
+/.venv
+/model
+/model.h5
+/__pycache__
