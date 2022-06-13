@@ -1,4 +1,5 @@
 /.venv
 /model
-/model.h5
+model.h5
 /__pycache__
+s-a.json

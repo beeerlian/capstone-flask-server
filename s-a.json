@@ -1,0 +1,12 @@
+{
+       "type": "service_account",
+       "project_id": "securicam-351906",
+       "private_key_id": "57ff730b4c584d220b4cc5ca0c604a849a96d6b9",
+       "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC6E+uk8Neq99Nm\n9IAVPvhm8IVIQ1i2hOdcwOxO7KWIi1w/cSIhNEVEekb7T50c7lZf0ALX4mbXYApB\nVVVutj7o6cIkBjO5xz2twbu4+PV4aobpS60Mij/P9CwfXWmPa382AOBVpEyvNVp4\ny6N6CeYOgCoelVzNx6jQv+qQpLtOrsLDhXxLrftXyxQAlpDG4F50L+2hz50iYrL9\nkdxoRH5f5PewmqLg8NDS+WRJFuASYBx9nPleC/+TtUIZfwL1IvbZMwrZLbLwKiXM\nrKRnskHAs1W0eKHuveOELqnJRw/cuRxL1iT/wCLavpDIjyyKQ3YXirAvKRSxH1Qe\nvkqQR6FXAgMBAAECggEAAw2m9fMwp6m0KoILIRxXd3a7rZhhT1XZg5ks0ikqCmua\nG2gscpXP7ymORSzdpmcMWJCxZs54297gLftEwscIdK3XDmqa+FjvjlO9VDj4QUxN\nv94nMZ0YPxNB6Bb1z6Moikbs2Tkh5o3hvHHOGU5/f0xqiBJ/P9j0s+psDVAc52H7\ncqPe/vrpjPBaCxqh0npPTS4pmNoJrgb5RvbzLTJ3myKWiWBJnNc41vDPk5O69BuV\nkpbJK8fM1x06mjPJUn6csoxTP1epAAPeX5BnC6azecDhElTTe7595jJZe9nJZIau\ngK/EdjQ7kUMSyLWHYFoTjWoZPi/s3EcafEy/acrlmQKBgQDrG90nH5l5fEOorj/k\n7AK3Rl011+DOPCgDE7dC6orIpU4V/x9EVH7PvI/OAQphwUNsjlQJ9Hzk9D8zw4bo\nNqy0tHcXDidctDdi9cg3tb0tiV2igEQpj1J65lPE+/PhHH29/rudGqD7166Hx1lu\nfQFUsHxqGYgF6HaSvtdAJ6/anwKBgQDKnLlIDG13PyaxxP+08OF87UeQBGwVOoec\nmy0T8qQ9RqM7lIi+H3uQFEl8RImHwi2tqIz04pAo4waAvKLm5oYA57iTXjQUoptl\nRiSeufquxsvoou/32MsE5Lxaf4ygt54qulUR5LfkQKHONFSGBMQJsSWhtOm4BJdT\n+PEYD4N2SQKBgBtHXF2RuQjzdhY4QYmaKKaDL4Vzys2jBTF2NCk7dWbaZzj+JO6U\nrzIDOtw4GrBE8EHEMdQF3gfinwKuiRSgY2GEHt058y86acK9qcFtAMorygV0xHPe\nAT/pQYb1hNJ1r9E/oR0VXeBaohF2+9VqA6GD6KuW0sV8t2VHZ0o2UJ0ZAoGALd9p\n+6wEpLkBk8IceuUGyHgYebzmk6/awFRJ0nhfQxhZIMYyZ4lNOoO9V4tU8A3Atc6x\ni0g4h2lPMZqD729F67KLEaKEfB+Mu1M0O1O0NBoCVLt/RUgqPwNiucKjHkg0YUwq\nspBsKhuQBtXGRUmS8PbQpFoHiIhRksuMGnx4sTECgYAyPr8Jsrd/RNxlscytXB0W\nRWUGB9qMdxpHHh2uKwvWCP+lyBXPTWV2lYHZ9YFzk+U+AlWjPAi2gc0fm7Cs+nS3\nlu+7+Aoxi5ps77rH0tvauAjMshVNOaqZgnA9G35bknFReLPWVGF5QzPYx67j2T2J\nTGiX/SZvgVfqvbzEYwCBVQ==\n-----END PRIVATE KEY-----\n",
+       "client_email": "securicam-351906@appspot.gserviceaccount.com",
+       "client_id": "109748322944871646039",
+       "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+       "token_uri": "https://oauth2.googleapis.com/token",
+       "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+       "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/securicam-351906%40appspot.gserviceaccount.com"
+}
